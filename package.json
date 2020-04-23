@@ -1,7 +1,7 @@
 {
   "name": "angstrom-config-encryptor",
   "main": "./lib/angstrom-config-encryptor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The package is used for encrypting angstrom config files.",
   "keywords": [],
   "activationHooks": [
@@ -11,8 +11,8 @@
     "atom-workspace": "angstrom-config-encryptor:encrypt"
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fetaleksej/angstrom-config-encryptor"
+    "type": "git",
+    "url": "git+https://github.com/fetaleksej/angstrom-config-encryptor"
   },
   "license": "MIT",
   "engines": {
