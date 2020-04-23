@@ -10,10 +10,7 @@
   "activationCommands": {
     "atom-workspace": "angstrom-config-encryptor:encrypt"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fetaleksej/angstrom-config-encryptor.git"
-  },
+  "repository": "https://github.com/fetaleksej/angstrom-config-encryptor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
