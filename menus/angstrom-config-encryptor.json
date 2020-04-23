@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Angstrom",
+          "submenu": [
+            {
+              "label": "Encrypt",
+              "command": "angstrom-config-encryptor:encrypt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
